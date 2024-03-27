@@ -5,6 +5,7 @@
 **Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.**
 
 - **Disclaimer: All information (tools, links, articles, text, images, etc.) is provided for educational purposes only! All information is also based on data from public sources. You are solely responsible for your actions, not the author** ❗️
+- 
 
 [![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md)
 
